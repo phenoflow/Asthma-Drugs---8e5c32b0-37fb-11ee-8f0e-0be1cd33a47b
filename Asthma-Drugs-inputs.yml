@@ -1,0 +1,195 @@
+inputModule1:
+  class: File
+  path: js/read-potential-cases-omop.js
+inputModule2:
+  class: File
+  path: python/asthma-drugs-80microgram---primary.py
+inputModule3:
+  class: File
+  path: python/asthma-drugs-200mg---primary.py
+inputModule4:
+  class: File
+  path: python/asthma-drugs-nuelin---primary.py
+inputModule5:
+  class: File
+  path: python/asthma-drugs-aerocrom---primary.py
+inputModule6:
+  class: File
+  path: python/asthma-drugs-tablet---primary.py
+inputModule7:
+  class: File
+  path: python/asthma-drugs-theophyllinate---primary.py
+inputModule8:
+  class: File
+  path: python/asthma-drugs-250mg---primary.py
+inputModule9:
+  class: File
+  path: python/asthma-drugs-syncroner---primary.py
+inputModule10:
+  class: File
+  path: python/asthma-drugs-zaditen---primary.py
+inputModule11:
+  class: File
+  path: python/asthma-drugs-ketotifen---primary.py
+inputModule12:
+  class: File
+  path: python/asthma-drugs-biophylline---primary.py
+inputModule13:
+  class: File
+  path: python/asthma-drugs-625mg---primary.py
+inputModule14:
+  class: File
+  path: python/asthma-drugs-12mcg---primary.py
+inputModule15:
+  class: File
+  path: python/asthma-drugs-cyclocap---primary.py
+inputModule16:
+  class: File
+  path: python/asthma-drugs-100mcg---primary.py
+inputModule17:
+  class: File
+  path: python/asthma-drugs-nebuliser---primary.py
+inputModule18:
+  class: File
+  path: python/asthma-drugs-40mcg---primary.py
+inputModule19:
+  class: File
+  path: python/asthma-drugs-120mg---primary.py
+inputModule20:
+  class: File
+  path: python/asthma-drugs-spray---primary.py
+inputModule21:
+  class: File
+  path: python/asthma-drugs-nedocromil---primary.py
+inputModule22:
+  class: File
+  path: python/asthma-drugs-175mg---primary.py
+inputModule23:
+  class: File
+  path: python/asthma-drugs-salbutamol---primary.py
+inputModule24:
+  class: File
+  path: python/asthma-drugs-025mg---primary.py
+inputModule25:
+  class: File
+  path: python/asthma-drugs-aminophylline---primary.py
+inputModule26:
+  class: File
+  path: python/asthma-drugs-hydrobromide---primary.py
+inputModule27:
+  class: File
+  path: python/asthma-drugs-expectorant---primary.py
+inputModule28:
+  class: File
+  path: python/asthma-drugs-nebule---primary.py
+inputModule29:
+  class: File
+  path: python/salbuvent-asthma-drugs---primary.py
+inputModule30:
+  class: File
+  path: python/asthma-drugs-ventide---primary.py
+inputModule31:
+  class: File
+  path: python/asthma-drugs-95microgram---primary.py
+inputModule32:
+  class: File
+  path: python/intal-asthma-drugs---primary.py
+inputModule33:
+  class: File
+  path: python/asthma-drugs-ventmax---primary.py
+inputModule34:
+  class: File
+  path: python/monovent-asthma-drugs---primary.py
+inputModule35:
+  class: File
+  path: python/asthma-drugs-400mg---primary.py
+inputModule36:
+  class: File
+  path: python/asthma-drugs-volmax---primary.py
+inputModule37:
+  class: File
+  path: python/asthma-drugs-500mg---primary.py
+inputModule38:
+  class: File
+  path: python/asthma-drugs-20mcg---primary.py
+inputModule39:
+  class: File
+  path: python/asthma-drugs-bricanyl---primary.py
+inputModule40:
+  class: File
+  path: python/asthma-drugs-300mg---primary.py
+inputModule41:
+  class: File
+  path: python/asthma-drugs-spacer---primary.py
+inputModule42:
+  class: File
+  path: python/asthma-drugs-tilade---primary.py
+inputModule43:
+  class: File
+  path: python/asthma-drugs-airomir---primary.py
+inputModule44:
+  class: File
+  path: python/asthma-drugs-compt---primary.py
+inputModule45:
+  class: File
+  path: python/asthma-drugs-canister---primary.py
+inputModule46:
+  class: File
+  path: python/asthma-drugs-350mg---primary.py
+inputModule47:
+  class: File
+  path: python/tedral-asthma-drugs---primary.py
+inputModule48:
+  class: File
+  path: python/duovent-asthma-drugs---primary.py
+inputModule49:
+  class: File
+  path: python/asthma-drugs-hillcross---primary.py
+inputModule50:
+  class: File
+  path: python/asthma-drugs-diproprionate---primary.py
+inputModule51:
+  class: File
+  path: python/asthma-drugs---primary.py
+inputModule52:
+  class: File
+  path: python/combivent-asthma-drugs---primary.py
+inputModule53:
+  class: File
+  path: python/asthma-drugs-diskhaler---primary.py
+inputModule54:
+  class: File
+  path: python/asthma-drugs-pharm---primary.py
+inputModule55:
+  class: File
+  path: python/asthma-drugs-cromoglicate---primary.py
+inputModule56:
+  class: File
+  path: python/asthma-drugs-respule---primary.py
+inputModule57:
+  class: File
+  path: python/asthma-drugs-theodur---primary.py
+inputModule58:
+  class: File
+  path: python/asthma-drugs-salbulin---primary.py
+inputModule59:
+  class: File
+  path: python/asthma-drugs-respirator---primary.py
+inputModule60:
+  class: File
+  path: python/asthma-drugs-celltech---primary.py
+inputModule61:
+  class: File
+  path: python/asthma-drugs-seretide---primary.py
+inputModule62:
+  class: File
+  path: python/asthma-drugs-225mg---primary.py
+inputModule63:
+  class: File
+  path: python/asthma-drugs-ventolin---primary.py
+inputModule64:
+  class: File
+  path: python/asthma-drugs-elixir---primary.py
+inputModule65:
+  class: File
+  path: python/output-cases.py
